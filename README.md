@@ -1,6 +1,6 @@
 # Welcome to [Jason Lindsay's](https://concrete-brand-length.github.io) profile! <a href="https://concrete-brand-length.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/jason-lindsay-7b68b1251" target="_blank" ><img src="./linkedin.svg" alt="LinkedIn Profile" height="30" width="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://concrete-brand-length.github.io" target="_blank"><img src="./icon_green_website.png" alt="LinkedIn Profile" width="30" /></a>
+<a href="https://www.linkedin.com/in/jason-lindsay-7b68b1251" target="_blank" ><img src="./assets/linkedin.svg" alt="LinkedIn Profile" height="30" width="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://concrete-brand-length.github.io" target="_blank"><img src="./assets/icon_green_website.png" alt="LinkedIn Profile" width="30" /></a>
 
 ---
 
