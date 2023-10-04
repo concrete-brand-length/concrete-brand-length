@@ -1,6 +1,6 @@
 # Welcome to [Jason Lindsay's](https://concrete-brand-length.github.io) profile! <a href="https://concrete-brand-length.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/jason-lindsay-7b68b1251" target="_blank" ><img src="./linkedin.svg" alt="My LinkedIn Profile" height="30" width="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://concrete-brand-length.github.io" target="_blank"><img src="./icon_green_website.png" alt="My Portfolio Website" width="30" /></a>
+<a href="https://www.linkedin.com/in/jason-lindsay-7b68b1251" target="_blank" ><img src="./linkedin.svg" alt="LinkedIn Profile" height="30" width="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://concrete-brand-length.github.io" target="_blank"><img src="./icon_green_website.png" alt="LinkedIn Profile" width="30" /></a>
 
 ---
 
@@ -39,14 +39,17 @@ I am a second-year university student studying computing science. I love learnin
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-14354C.svg?logo=Django&logoColor=white&label=Django"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
